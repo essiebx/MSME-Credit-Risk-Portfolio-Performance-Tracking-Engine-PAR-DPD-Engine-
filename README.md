@@ -1,4 +1,4 @@
-# MSME Credit Risk Portfolio Performance Tracking Engine
+# MSME Credit Risk Portfolio Performance Tracking
 
 ## Project at a glance
 
